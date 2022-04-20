@@ -1,0 +1,27 @@
+{
+  "_cts": {
+    "my-custom-type": {
+      "content": {
+        "body": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    },
+    "posts": {
+      "content": {
+        "body": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    }
+  },
+  "slices": {
+    "Posts": {}
+  }
+}

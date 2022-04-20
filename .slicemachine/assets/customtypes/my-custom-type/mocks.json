@@ -1,0 +1,51 @@
+{
+  "id": "f1212c0c-1cd9-45c2-9361-bca3ee3dafba",
+  "uid": "itaque-non-vitae",
+  "type": "my-custom-type",
+  "data": {
+    "title": "redefine 24/365 bandwidth",
+    "subtitle": "incubate open-source e-business",
+    "author": "scale wireless deliverables",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "synergize enterprise supply-chains",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ad consectetur minim veniam in amet officia sunt laboris. Nulla velit cillum excepteur nostrud.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "empower synergistic methodologies",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Cupidatat aute consequat mollit excepteur labore id reprehenderit eu.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "exploit killer web-readiness",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Laborum minim ex adipisicing aliquip do dolore.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}

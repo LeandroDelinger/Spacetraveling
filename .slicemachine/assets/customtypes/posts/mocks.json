@@ -1,0 +1,51 @@
+{
+  "id": "0f40d4a6-a4a0-42a9-a544-c1a5da715598",
+  "uid": "ad-nisi-deserunt",
+  "type": "posts",
+  "data": {
+    "title": "strategize scalable ROI",
+    "subtitle": "empower innovative action-items",
+    "author": "utilize front-end portals",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "reinvent e-business methodologies",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ut minim velit non cillum nulla ipsum deserunt irure eiusmod anim laboris est Lorem eiusmod.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "e-enable proactive supply-chains",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Occaecat aliquip aliqua aliquip. Ea velit magna aute officia dolore officia ad amet. Duis dolor anim sint sit duis non culpa dolor eiusmod nulla.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "envisioneer viral content",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Deserunt elit amet cupidatat.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
